@@ -7,6 +7,8 @@ namespace UnitTestBonanza.Test
       - teknisk sett, hvordan lage unit test
       - testdrevet utvikling - TDD 
       - kodedekning
+
+    pause til 11:12
      */
     public class TrafficLightTest
     {
